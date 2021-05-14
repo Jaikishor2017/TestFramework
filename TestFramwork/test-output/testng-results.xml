@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-14T16:22:03 IST" name="Suite" finished-at="2021-05-14T16:22:03 IST" duration-ms="248">
+    <groups>
+    </groups>
+    <test started-at="2021-05-14T16:22:03 IST" name="Test" finished-at="2021-05-14T16:22:03 IST" duration-ms="116">
+      <class name="Projectmodules.TestFramwork.SecondClass">
+        <test-method signature="secondClassMentodThree()[pri:0, instance:Projectmodules.TestFramwork.SecondClass@550ee7e5]" started-at="2021-05-14T16:22:03 IST" name="secondClassMentodThree" finished-at="2021-05-14T16:22:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondClassMentodThree -->
+        <test-method signature="secondClassMentodTwo()[pri:0, instance:Projectmodules.TestFramwork.SecondClass@550ee7e5]" started-at="2021-05-14T16:22:03 IST" name="secondClassMentodTwo" finished-at="2021-05-14T16:22:03 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondClassMentodTwo -->
+        <test-method signature="secondclassmentodone()[pri:0, instance:Projectmodules.TestFramwork.SecondClass@550ee7e5]" started-at="2021-05-14T16:22:03 IST" name="secondclassmentodone" finished-at="2021-05-14T16:22:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondclassmentodone -->
+      </class> <!-- Projectmodules.TestFramwork.SecondClass -->
+      <class name="Projectmodules.TestFramwork.FirstClass">
+        <test-method signature="firstClassMentodThree()[pri:0, instance:Projectmodules.TestFramwork.FirstClass@44821a96]" started-at="2021-05-14T16:22:03 IST" name="firstClassMentodThree" finished-at="2021-05-14T16:22:03 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstClassMentodThree -->
+        <test-method signature="firstClassMentodTwo()[pri:0, instance:Projectmodules.TestFramwork.FirstClass@44821a96]" started-at="2021-05-14T16:22:03 IST" name="firstClassMentodTwo" finished-at="2021-05-14T16:22:03 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstClassMentodTwo -->
+        <test-method signature="firstclassmentodone()[pri:0, instance:Projectmodules.TestFramwork.FirstClass@44821a96]" started-at="2021-05-14T16:22:03 IST" name="firstclassmentodone" finished-at="2021-05-14T16:22:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstclassmentodone -->
+      </class> <!-- Projectmodules.TestFramwork.FirstClass -->
+    </test> <!-- Test -->
+    <test started-at="2021-05-14T16:22:03 IST" name="newtest" finished-at="2021-05-14T16:22:03 IST" duration-ms="20">
+      <class name="Projectmodules.TestFramwork.ThirdClass">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:Projectmodules.TestFramwork.ThirdClass@21e360a]" started-at="2021-05-14T16:22:03 IST" name="BeforeTest" finished-at="2021-05-14T16:22:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="beforemetod()[pri:0, instance:Projectmodules.TestFramwork.ThirdClass@21e360a]" started-at="2021-05-14T16:22:03 IST" name="beforemetod" finished-at="2021-05-14T16:22:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemetod -->
+        <test-method signature="ThirdClassMentodThree()[pri:0, instance:Projectmodules.TestFramwork.ThirdClass@21e360a]" started-at="2021-05-14T16:22:03 IST" name="ThirdClassMentodThree" finished-at="2021-05-14T16:22:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdClassMentodThree -->
+        <test-method is-config="true" signature="beforemetod()[pri:0, instance:Projectmodules.TestFramwork.ThirdClass@21e360a]" started-at="2021-05-14T16:22:03 IST" name="beforemetod" finished-at="2021-05-14T16:22:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemetod -->
+        <test-method signature="ThirdClassMentodTwo()[pri:0, instance:Projectmodules.TestFramwork.ThirdClass@21e360a]" started-at="2021-05-14T16:22:03 IST" name="ThirdClassMentodTwo" finished-at="2021-05-14T16:22:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdClassMentodTwo -->
+        <test-method is-config="true" signature="beforemetod()[pri:0, instance:Projectmodules.TestFramwork.ThirdClass@21e360a]" started-at="2021-05-14T16:22:03 IST" name="beforemetod" finished-at="2021-05-14T16:22:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemetod -->
+        <test-method signature="Thirdclassmentodone()[pri:0, instance:Projectmodules.TestFramwork.ThirdClass@21e360a]" started-at="2021-05-14T16:22:03 IST" name="Thirdclassmentodone" finished-at="2021-05-14T16:22:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Thirdclassmentodone -->
+      </class> <!-- Projectmodules.TestFramwork.ThirdClass -->
+    </test> <!-- newtest -->
+  </suite> <!-- Suite -->
+</testng-results>
